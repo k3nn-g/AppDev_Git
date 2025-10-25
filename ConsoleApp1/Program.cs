@@ -6,6 +6,7 @@
         {
             Console.WriteLine("Hello, Philippines!");
             Console.WriteLine("Hello SIr Bato!");
+            Console.WriteLine("Hi Quin");
         }
     }
 }
