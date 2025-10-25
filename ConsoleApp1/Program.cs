@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, Philippines!");
+            Console.WriteLine("Hello SIr Bato!");
         }
     }
 }
